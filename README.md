@@ -6,6 +6,7 @@ The objective of this project is to understand:
   * What are the depth, the height, the size of a binary tree
   * What are the different traversal methods to go through a binary tree
   * What is a complete, a full, a perfect, a balanced binary tree
+
                 _  __              _           _
                | |/ /___ _ __ ___ | |__   ___ (_)_ __ __ _ _   _
                | ' // _ \ '_ ` _ \| '_ \ / _ \| | '__/ _` | | | |
