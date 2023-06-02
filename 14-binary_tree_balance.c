@@ -6,11 +6,11 @@
  *
  * Return: height of tree
  */
- int height(const binary_tree_t *node)
- {
-	return(node ? (height(node->left) > height(node->right) ? height(node->left)
+int height(const binary_tree_t *node)
+{
+	return (node ? (height(node->left) > height(node->right) ? height(node->left)
 				+ 1 : height(node->right) + 1) : -1);
- }
+}
 
 /**
  * binary_tree_balance - Calculate the balance factor of a node
